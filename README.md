@@ -12,3 +12,6 @@ GL-MahjongTile font from [Gutenberg Labo](https://gutenberg.osdn.jp/ja/license.h
 - #006600 green
 - #000099 blue
 - #000066 dark blue (b-0)
+- #333333 flower index
+- #999900 yellow
+- #cc3366 pink (f-5)
