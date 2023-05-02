@@ -55,7 +55,7 @@ def main(input_folder, output_folder):
         if 'viewBox' in svg_content:
             raise ValueError(f'viewBox already exists: {filename}')
 
-        svg_content = svg_content.replace('<svg', f'<svg viewBox="{view_box}"')
+        svg_content = svg_content.replace('<svg', f'<svg viewBox="{view_box}"').replace("><", ">\n<")
 
         with open(output_path, 'w') as file:
             file.write(svg_content)
