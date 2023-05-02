@@ -15,3 +15,11 @@ GL-MahjongTile font from [Gutenberg Labo](https://gutenberg.osdn.jp/ja/license.h
 - #333333 flower index
 - #999900 yellow
 - #cc3366 pink (f-5)
+
+### original color palette
+- #00007F blue
+- #007F00 green
+- #333333 black
+- #DA9040 tan (frame)
+- #F9F9F5 ivory (white)
+- #FF0000 red
